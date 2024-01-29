@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @adfinem_rising, a.k.a. jose a. perez jr. a relentless demon, the unconquerable soul, a strategist, a keen observer, and a friend  :)
+- 👋 Hi, I’m @adfinem_rising, a.k.a. jose a. perez jr. a relentless demon, an unconquerable soul, a strategist, a keen observer, and a friend  :)
 - 👀 I’m interested in coding, cooking, entrepreneurship, building and repair
 - 📫 How to reach me @[youtube](https://www.youtube.com/c/adfinemrising) i do some pathetic things there
