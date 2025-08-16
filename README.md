@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @rising-dancho, a.k.a. jose a. perez jr. a relentless demon, an unyielding and unconquerable soul, a strategist, a keen observer, and a friend  :) currently specializing on javascript, MERN stack, react-native, flutter + python backend + opencv + pytorch mobile.. after gulping a copious amount of css ¯\_(ツ)_/¯
+- 👋 Hi, I’m @rising-dancho, a.k.a. jose a. perez jr. currently specializing on javascript, flutter, and SQL.. after gulping a copious amount of css ¯\_(ツ)_/¯
 - 🧗 Adaptable, calm under pressure, relentless.
