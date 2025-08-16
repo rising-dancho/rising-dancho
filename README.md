@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @rising-dancho, a.k.a. jose a. perez jr. currently specializing on javascript, flutter, css, and SQL.. ¯\_(ツ)_/¯
+- 👋 Hi, I’m @rising-dancho, a.k.a. jose a. perez jr. currently specializing on javascript, flutter, css, and SQL .. ¯\_(ツ)_/¯
 - 🧗 Adaptable, calm under pressure, relentless.
