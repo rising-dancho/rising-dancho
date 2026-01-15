@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @rising-dancho, a.k.a. jose a. perez jr. currently learning further javascript, flutter, css, oop, react, java, python, sql, excel automation and arduino electronics .. ¯\_(ツ)_/¯
 - 🧗 adaptable, calm under pressure, benevolent, relentless, eternally curious
 - mode: "action creates readiness, confidence, momentum, and clarity.. all at once"
+- creed: in difficulty you will find yourself
