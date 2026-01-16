@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rising-dancho, a.k.a. jose a. perez jr. currently specializing on javascript, node.js, and coding challenges .. ¯\_(ツ)_/¯
+- 👋 Hi, I’m @rising-dancho, a.k.a. jose a. perez jr. currently specializing on javascript, node.js, data structures and algoirthms coding challenges .. ¯\_(ツ)_/¯
 - 🧗 adaptable, calm under pressure, benevolent, relentless, eternally curious
 - mode: "action creates readiness, confidence, momentum, and clarity.. all at once"
 - creed: “it is in difficulty, not in ease, that we find ourselves.”
