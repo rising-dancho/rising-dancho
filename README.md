@@ -2,3 +2,4 @@
 - 🧗 adaptable, calm under pressure, benevolent, relentless, eternally curious, and believes in incremental growth
 - 🎯 mode: "action creates readiness, confidence, momentum, and clarity.. all at once"
 - 🙏 creed: “it is in difficulty, not in ease, that we find ourselves.”
+- ☝️ quote: "BE Consistent! EVERYDAY! BE Consistent! EVERYDAY!"
