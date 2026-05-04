@@ -4,5 +4,6 @@
 - 🎯 mode: "action creates readiness, confidence, momentum, and clarity.. all at once"
 - 🙏 creed: “it is in difficulty, not in ease, that we find ourselves.”
 - 🌊 motivation: "true art is never really finished, only abandoned"
-- 🐢 quote: "your next move is more important than your last mistake. it takes strength to be good"
+- 🐢 quote1: "your next move is more important than your last mistake."
+- 🐢 quote2: "if your harmless then you are just weak. and if you are harmless you are not going to be good. you cant be, because it takes strength to be good."
 
