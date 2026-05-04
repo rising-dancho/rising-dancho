@@ -5,5 +5,5 @@
 - 🙏 creed: “it is in difficulty, not in ease, that we find ourselves.”
 - 🌊 motivation: "true art is never really finished, only abandoned"
 - 🐢 quote1: "your next move is more important than your last mistake."
-- 🐢 quote2: "if your harmless then you are just weak. and if you are harmless you are not going to be good. you cant be. because it takes strength to be good. there's no morality in your self control if you are incapable of violence"
+- 🐢 quote2: "those who have swords and know how to use them but keep them sheathed will inherit the earth"
 
