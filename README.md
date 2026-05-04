@@ -4,6 +4,7 @@
 - 🎯 mode: "action creates readiness, confidence, momentum, and clarity.. all at once"
 - 🙏 creed: “it is in difficulty, not in ease, that we find ourselves.”
 - 🌊 motivation: "true art is never really finished, only abandoned"
-- 🐢 quote1: "your next move is more important than your last mistake."
-- 🐢 quote2: "those who have swords and know how to use them but keep them sheathed will inherit the earth"
+- 🐢 quotes:
+- "your next move is more important than your last mistake."
+- "those who have swords and know how to use them but keep them sheathed will inherit the earth"
 
