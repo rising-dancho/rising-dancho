@@ -5,6 +5,7 @@
 - 🙏 creed: “it is in difficulty, not in ease, that we find ourselves.”
 - 🌊 motivation: "true art is never really finished, only abandoned"
 - 🐢 quotes:
-- "your next move is more important than your last mistake."
+- "your next move is more important than your last mistake"
+- "it is because that there is hardship that there is satisfaction"
 - "those who have swords and know how to use them but keep them sheathed will inherit the earth"
 
