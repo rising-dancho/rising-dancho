@@ -7,5 +7,6 @@
 - 🐢 quotes:
 - "your next move is more important than your last mistake"
 - "it is because that there is hardship that there is satisfaction"
+- "you become what you do, not what you dream"
 - "those who have swords and know how to use them but keep them sheathed will inherit the earth"
 
