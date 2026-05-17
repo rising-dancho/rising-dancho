@@ -7,9 +7,10 @@
 - 🐢 quotes:
 - "train so hard that winning is innevitable"
 - "your next move is more important than your last mistake"
+- "patterns matter more than isolated incidents"
 - "it is because that there is hardship that there is satisfaction"
 - "you become what you do, not what you dream"
 - "i'd much rather fail gloriously than not venture or never try"
 - "those who have swords and know how to use them but keep them sheathed will inherit the earth"
-- "patterns matter more than isolated incidents"
+
 
