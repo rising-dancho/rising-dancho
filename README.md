@@ -13,5 +13,4 @@
 - "i'd much rather fail gloriously than not venture or never try"
 - "those who have swords and know how to use them but keep them sheathed will inherit the earth"
 - "people are not born to endure. they are born to overcome"
-- "nature bends to no one. it treats everything the same. it discards and clings to nothing. indifferent"
 
