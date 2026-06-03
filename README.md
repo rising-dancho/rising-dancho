@@ -14,4 +14,4 @@
 - "those who have swords and know how to use them but keep them sheathed will inherit the earth"
 - "people are not born to endure. they are born to overcome"
 - "life is often a paradox. what seems unfair today may be shaping your strength in ways you cannot yet see. what feels like resistance may,
-in time, reveal itself as a redirection toward a better path."
+in time, reveal itself as a redirection toward a better direction."
