@@ -16,4 +16,4 @@ in time, reveal itself as a redirection toward a better direction."
 - "sometimes when your world seems to be all falling apart, the only way out is through"
 - "focus not on what is beyond your control, but on the qualities, skills, and character you have the power to cultivate"
 - "be true to the game, because the game will be true to you. if you try to shortcut the game, then the game will shortcut you. if you put forth the effort, good things will be bestowed upon you.."
-- in programming, understanding is not a starting condition—it is a byproduct of repeated structured usage.
+- "in programming, understanding is not a prerequisite for progress; it is a byproduct of repeated exposure, deliberate practice, and building real things."
