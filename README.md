@@ -11,8 +11,7 @@
 - "you become what you do, not what you dream"
 - "i'd much rather fail gloriously than not venture or never try"
 - "those who have swords and know how to use them but keep them sheathed will inherit the earth"
-- "life is often a paradox. what seems unfair today may be shaping your strength in ways you cannot yet see. what feels like resistance may,
-in time, reveal itself as a redirection toward a better endpoint."
+- "life is often a paradox. what feels like a setback today may become the very thing that strengthens you tomorrow. what appears to be resistance may, in hindsight, have been redirection."
 - "sometimes when your world seems to be all falling apart, the only way out is through"
 - "focus not on what is beyond your control, but on the qualities, skills, and character you have the power to cultivate"
 - "be true to the game, because the game will be true to you. if you try to shortcut the game, then the game will shortcut you. if you put forth the effort, good things will be bestowed upon you.."
