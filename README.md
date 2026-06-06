@@ -4,7 +4,7 @@
 - 🙏 creed: “it is in difficulty, not in ease, that we find ourselves.”
 - 🌊 motivation: "true art is never really finished, only abandoned"
 - 🐢 quotes:
-- "train so hard that winning becomes innevitable"
+- "train so hard that winning becomes inevitable"
 - "your next move is more important than your last mistake"
 - "patterns matter more than isolated incidents"
 - "it is because that there is hardship that there is satisfaction"
