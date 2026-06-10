@@ -6,10 +6,10 @@
 - 🐢 quotes:
 - "train so hard that winning becomes inevitable"
 - "your next move is more important than your last mistake"
-- "The axe forgets, but the tree remembers"
 - "patterns matter more than isolated incidents"
 - "it is because that there is hardship that there is satisfaction"
 - "you become what you do, not what you dream"
+- "the axe forgets, but the tree remembers"
 - "i'd much rather fail gloriously than not venture or never try"
 - "those who have swords and know how to use them but keep them sheathed will inherit the earth"
 - "life is often a paradox. what feels like a setback today may become the very thing that strengthens you tomorrow. what appears to be resistance may, in hindsight, have been redirection."
