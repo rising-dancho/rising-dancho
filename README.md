@@ -6,6 +6,7 @@
 - 🐢 quotes:
 - "train so hard that winning becomes inevitable"
 - "your next move is more important than your last mistake"
+- "The axe forgets, but the tree remembers"
 - "patterns matter more than isolated incidents"
 - "it is because that there is hardship that there is satisfaction"
 - "you become what you do, not what you dream"
