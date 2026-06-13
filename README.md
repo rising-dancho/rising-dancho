@@ -5,6 +5,7 @@
 - 🌊 motivation: "true art is never really finished, only abandoned"
 - 🐢 quotes:
 - "train so hard that winning becomes inevitable"
+- "your lack of commitment is an insult to those people who believe in you"
 - "your next move is more important than your last mistake"
 - "patterns matter more than isolated incidents"
 - "it is because that there is hardship that there is satisfaction"
