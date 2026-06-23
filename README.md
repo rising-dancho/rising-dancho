@@ -8,7 +8,7 @@
 - "your next move is more important than your last mistake"
 - "patterns matter more than isolated incidents"
 - "your lack of commitment is an insult to those who believe in you"
-- "set a goal that will make you stretch that far. for what it will make of you to achieve it. the greatest value in life is not what you get. the greatest value in life what you become"
+- "set a goal that will make you stretch that far. for what it will make of you to achieve it. the greatest value in life is not what you get. the greatest value in life is what you become"
 - "you become what you do, not what you dream"
 - "the axe forgets, but the tree remembers"
 - "i'd much rather fail gloriously than not venture or never try"
