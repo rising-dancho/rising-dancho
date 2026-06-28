@@ -11,6 +11,7 @@
 - "set a goal that will make you stretch that far. for what it will make of you to achieve it. the greatest value in life is not what you get. the greatest value in life is what you become"
 - "you become what you do, not what you dream"
 - "the axe forgets, but the tree remembers"
+- "aiming up is heroic"
 - "i'd much rather fail gloriously than not venture or never try"
 - "those who have swords and know how to use them but keep them sheathed will inherit the earth"
 - "life is often a paradox. what feels like a setback today may become the very thing that strengthens you tomorrow. what appears to be resistance may, in hindsight, have been redirection."
