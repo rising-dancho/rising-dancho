@@ -6,6 +6,7 @@
 - 🐢 quotes:
 - "train so hard that winning becomes inevitable"
 - "most peoples limitations are self imposed"
+- "nothing in life is to be feared, it is only to be understood."
 - "excellence is the capacity to take pain for a long period of time"
 - "your next move is more important than your last mistake"
 - "patterns matter more than isolated incidents"
