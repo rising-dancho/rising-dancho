@@ -5,9 +5,9 @@
 - 🌊 motivation: "true art is never really finished, only abandoned"
 - 🐢 quotes:
 - "train so hard that winning becomes inevitable"
+- "your lack of commitment is an insult to those who believe in you"
 - "most peoples limitations are self imposed"
 - "nothing in life is to be feared, it is only to be understood"
-- "your lack of commitment is an insult to those who believe in you"
 - "excellence is the capacity to take pain for a long period of time"
 - "your next move is more important than your last mistake"
 - "patterns matter more than isolated incidents"
