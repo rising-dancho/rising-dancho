@@ -9,6 +9,7 @@
 - "your lack of commitment is an insult to those who believe in you"
 - "most peoples limitations are self imposed"
 - "nothing in life is to be feared, it is only to be understood"
+- "don't aim to become so competent that nobody doubts you. aim to become so competent that you don't need their belief"
 - "excellence is the capacity to take pain for a long period of time"
 - "your next move is more important than your last mistake"
 - "patterns matter more than isolated incidents"
