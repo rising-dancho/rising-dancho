@@ -17,6 +17,7 @@
 - "you become what you do, not what you dream"
 - "the axe forgets, but the tree remembers"
 - "we spend our adult lives undoing the debris of our childhood"
+- "when every option is bad it's hard to feel good at what you're doing"
 - "i'd much rather fail gloriously than not venture or never try"
 - "those who have swords and know how to use them but keep them sheathed will inherit the earth"
 - "life is often a paradox. what feels like a setback today may become the very thing that strengthens you tomorrow. what appears to be resistance may, in hindsight, have been redirection."
