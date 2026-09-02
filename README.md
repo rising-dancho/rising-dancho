@@ -10,7 +10,7 @@
 - "most peoples limitations are self imposed"
 - "nothing in life is to be feared, it is only to be understood"
 - "i don't need you to believe i can do it. i'll become capable of doing it anyway"
-- "excellence is the capacity to take pain for a long period of time"
+- "excellence is the capacity to take pain exchange of growth for a long period of time"
 - "your next move is more important than your last mistake"
 - "patterns matter more than isolated incidents"
 - "set a goal that will make you stretch that far. for what it will make of you to achieve it. the greatest value in life is not what you get. the greatest value in life is what you become"
