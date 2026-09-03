@@ -7,7 +7,7 @@
 - 🐢 quotes:
 - "train so hard that winning becomes inevitable"
 - "your lack of commitment is an insult to those who believe in you"
-- "most peoples limitations are self imposed"
+- "most people's limitations are self imposed"
 - "nothing in life is to be feared, it is only to be understood"
 - "i don't need you to believe i can do it. i'll become capable of doing it anyway"
 - "excellence is the capacity to take pain exchange of growth for a long period of time"
