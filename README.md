@@ -12,6 +12,7 @@
 - "i don't need you to believe i can do it. i'll become capable of doing it anyway"
 - "excellence is the capacity to take pain in exchange for growth for a long period of time"
 - "adversity is like the gym for the soul.. it hurts, its heavy, but it builds you up"
+- "there is no version of greatness that does not pass through suffering first"
 - "your next move is more important than your last mistake"
 - "patterns matter more than isolated incidents"
 - "set a goal that will make you stretch that far. for what it will make of you to achieve it. the greatest value in life is not what you get. the greatest value in life is what you become"
