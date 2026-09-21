@@ -9,7 +9,7 @@
 - "your lack of commitment is an insult to those who believe in you"
 - "most people's limitations are self imposed"
 - "nothing in life is to be feared, it is only to be understood"
-- "i don't need anyone to believe i can do it. i'll become capable of doing it anyway"
+- "failure and success are on the same road. it's just that failure is an earlier exit"
 - "excellence is the capacity to take pain in exchange for growth for a long period of time"
 - "adversity is like the gym for the soul.. it hurts, its heavy, but it builds you up"
 - "there is no version of greatness that does not pass through suffering first"
