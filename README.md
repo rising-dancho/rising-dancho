@@ -10,6 +10,7 @@
 - "most people's limitations are self imposed"
 - "nothing in life is to be feared, it is only to be understood"
 - "failure and success are on the same road. it's just that failure is an earlier exit"
+- "true winners.. they are built for the battle. they dont find peace and joy in the win. they find what they are looking for in the fight"
 - "excellence is the capacity to take pain in exchange for growth for a long period of time"
 - "adversity is like the gym for the soul.. it hurts, its heavy, but it builds you up"
 - "there is no version of greatness that does not pass through suffering first"
