@@ -11,6 +11,7 @@
 - "most people's limitations are self imposed"
 - "nothing in life is to be feared, it is only to be understood"
 - "awareness without action is just pain"
+- "conflict delayed is conflict multiplied. note it, get it through to the bloody bottom. fix it and move on."
 - "failure and success are on the same road. it's just that failure is an earlier exit"
 - "true winners.. they are built for the battle. they dont find peace and joy in the win. they find what they are looking for in the fight"
 - "excellence is the capacity to take pain in exchange for growth for a long period of time"
