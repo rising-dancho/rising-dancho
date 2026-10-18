@@ -22,6 +22,7 @@
 - "set a goal that will make you stretch that far. for what it will make of you to achieve it. the greatest value in life is not what you get. the greatest value in life is what you become"
 - "you become what you do, not what you dream"
 - "the axe forgets, but the tree remembers"
+- "envy is a declaration of inferiority"
 - "we spend our adult lives undoing the debris of our childhood"
 - "when every option is bad it's hard to feel good at what you're doing"
 - "i'd much rather fail gloriously than not venture or never try"
