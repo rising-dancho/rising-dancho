@@ -19,6 +19,7 @@
 - "there is no version of greatness that does not pass through suffering first"
 - "your next move is more important than your last mistake"
 - "patterns matter more than isolated incidents"
+- "there are thousands of excuses but not a single reason"
 - "set a goal that will make you stretch that far. for what it will make of you to achieve it. the greatest value in life is not what you get. the greatest value in life is what you become"
 - "you become what you do, not what you dream"
 - "the axe forgets, but the tree remembers"
