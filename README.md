@@ -10,6 +10,7 @@
 - "your lack of commitment is an insult to those who believe in you"
 - "most people's limitations are self imposed"
 - "nothing in life is to be feared, it is only to be understood"
+- "preparation is the key to confidence"
 - "awareness without action is just pain"
 - "conflict delayed is conflict multiplied. note it, get it through to the bloody bottom. fix it and move on."
 - "failure and success are on the same road. it's just that failure is an earlier exit"
