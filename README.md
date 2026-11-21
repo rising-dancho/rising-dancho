@@ -23,6 +23,7 @@
 - "patterns matter more than isolated incidents"
 - "..there are thousands of excuses but not a single reason not to achieve"
 - "set a goal that will make you stretch that far. for what it will make of you to achieve it. the greatest value in life is not what you get. the greatest value in life is what you become"
+- "one day, everything you own will either be donated, sold, or thrown away. What will remain is the difference you made in the lives of others."
 - "you become what you do, not what you dream"
 - "the axe forgets, but the tree remembers"
 - "envy is a declaration of inferiority"
