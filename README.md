@@ -13,6 +13,7 @@
 - "awareness without action is just pain"
 - "preparation is the key to confidence"
 - "getting old is inevitable, growing up is a choice"
+- "when someone allows you to see their humanity, have enough humility to remember your own"
 - "conflict delayed is conflict multiplied. note it, get it through to the bloody bottom. fix it and move on."
 - "failure and success are on the same road. it's just that failure is an earlier exit"
 - "weak people shift blame. strong people take accountability. small minds discuss people. great minds exchange ideas. hypocrites disguise their intention. envious people put other down. noble people give without keeping score. brave people face their fears. ignorant people assume. wise people question. liars hate truth, honest people stand by it. and happy people mind their business."
