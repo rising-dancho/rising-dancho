@@ -13,6 +13,7 @@
 - "awareness without action is just pain"
 - "preparation is the key to confidence"
 - "getting old is inevitable, growing up is a choice"
+- "time is going to keep passing, whether you slow down or not"
 - "when someone allows you to see their humanity, have enough humility to remember your own"
 - "conflict delayed is conflict multiplied. note it, get it through to the bloody bottom. fix it and move on."
 - "failure and success are on the same road. it's just that failure is an earlier exit"
