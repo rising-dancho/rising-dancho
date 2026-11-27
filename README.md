@@ -11,6 +11,7 @@
 - "most people's limitations are self imposed"
 - "nothing in life is to be feared, it is only to be understood"
 - "awareness without action is just pain"
+- "your interpretation is not my reality"
 - "preparation is the key to confidence"
 - "getting old is inevitable, growing up is a choice"
 - "time is going to keep passing, whether you slow down or not"
